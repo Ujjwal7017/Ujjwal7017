@@ -1,18 +1,18 @@
-<h1 align="center">Hello there 👋, I'm Abhijeet Kumar Singh</h1>
+<h1 align="center">Hello there 👋, I'm Ujjwal Shukla</h1>
 
 <h3 align="center">A passionate full-stack Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijeetkumarsinghofficial&label=Profile%20views&color=0e75b6&style=flat" alt="abhijeetkumarsinghofficial" /> </p>
 
-- 🔭 I’m currently working on **React hooks**
+- 🔭 I’m currently working on **React JS**
 
-- 🌱 I’m currently learning **Pygame**
+- 🌱 I’m currently learning **NODE JS**
 
-- 💬 Ask me about **C++ doubts**
+- 💬 Ask me about **JAVA DOUBTS**
 
-- 📫 To reach me, mail at **kumar.abhijeetsingh20@gmail.com**
+- 📫 To reach me, mail at **ujjwal7017@gmail.com**
 
-- ⚡ Fun fact **Fighting to manage time**
+- ⚡ Fun fact **Go with the flow**
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhijeetkumarsinghofficial&show_icons=true&locale=en" alt="abhijeetkumarsinghofficial" /></p>
