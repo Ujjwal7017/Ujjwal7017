@@ -15,7 +15,7 @@
 - ⚡ Fun fact **Go with the flow**
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhijeetkumarsinghofficial&show_icons=true&locale=en" alt="abhijeetkumarsinghofficial" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ujjwal7017&show_icons=true&locale=en" alt="abhijeetkumarsinghofficial" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -23,7 +23,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhijeetkumarsinghofficial&" alt="abhijeetkumarsinghofficial" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhijeetkumarsinghofficial&show_icons=true&locale=en&layout=compact" alt="abhijeetkumarsinghofficial" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhijeetkumarsinghofficial&show_icons=true&locale=en&layout=compact" alt="ujjwal7017" /></p>
 
 
 
