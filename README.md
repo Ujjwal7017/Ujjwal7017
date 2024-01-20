@@ -7,13 +7,11 @@
 
 <img align="right" height="350" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" />
 
-- 🔭 I’m currently working on **Backend Development**
+- 🔭 I’m currently working on **MERN STACK**
 
 - 🌱 I’m currently learning **Backend Development**
 
 - 👯 I’m looking to collaborate on **ReactJS**
-
-- 🤝 I’m looking for help with **MERN Stack**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ujjwal7017](https://github.com/Ujjwal7017)
 
