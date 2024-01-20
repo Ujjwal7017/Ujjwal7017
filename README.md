@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/itsujfam" target="blank"><img src="https://img.shields.io/twitter/follow/itsujfam?logo=twitter&style=for-the-badge" alt="itsujfam" /></a> </p>
 
+<img align="right" height="350" src="https://private-user-images.githubusercontent.com/74038190/240815068-993370af-11f4-48e7-9e0d-e5b79c2e7890.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDU3NTI0NjUsIm5iZiI6MTcwNTc1MjE2NSwicGF0aCI6Ii83NDAzODE5MC8yNDA4MTUwNjgtOTkzMzcwYWYtMTFmNC00OGU3LTllMGQtZTViNzljMmU3ODkwLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTIwVDEyMDI0NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWYzZjhkYzlmOTk3NjIzNDk5ZjU5YTY2YjNkNGZjMzBkMmFlYjI1MGNhOGIyNGZiNmNkZDk1ZjM1ODU2ZGMzNDkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.CGoobQ1OC8cJnQzrpFM2PFo-6QUoO38jrMk7ehDyrUo" />
+
 - 🔭 I’m currently working on **Backend Development**
 
 - 🌱 I’m currently learning **Backend Development**
