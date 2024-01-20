@@ -1,3 +1,5 @@
+<img align="center" height="10" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
+
 <h1 align="center">Hi 👋, I'm Ujjwal Shukla</h1>
 <h3 align="center">A Passionate Software Developer from India</h3>
 
@@ -5,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/itsujfam" target="blank"><img src="https://img.shields.io/twitter/follow/itsujfam?logo=twitter&style=for-the-badge" alt="itsujfam" /></a> </p>
 
-<img align="right" height="350" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" />
+<img align="right" height="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
 - 🔭 I’m currently working on **MERN STACK**
 
